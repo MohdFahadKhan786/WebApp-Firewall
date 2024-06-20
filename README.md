@@ -9,7 +9,7 @@ The Library requirements for the Project includes:
 3. Burp-Suite for collecting data for Model training.
 4. Statistical Analysis tools to gather signatures for known attacks.
 
-![Core Methodologies](image.png)
+![Core Methodologies](diagram.png)
 
 
 
