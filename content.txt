@@ -1,0 +1,164 @@
+<meta content="0;url=https://support.mozilla.org/kb/captive-portal" http-equiv="refresh"/><meta content="0;url=https://support.mozilla.org/kb/captive-portal" http-equiv="refresh"/>
+<!-- BEGIN HEADER -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Altoro Mutual</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<link href="/style.css" rel="stylesheet" type="text/css"/>
+</head>
+<body style="margin-top:5px;">
+<div id="header" style="margin-bottom:5px; width: 99%;">
+<form action="/search.jsp" id="frmSearch" method="get">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td rowspan="2"><a href="/index.jsp" id="HyperLink1"><img height="80/" src="http://demo.testfire.net/images/logo.gif" width="283"/></a></td>
+<td align="right" valign="top">
+<a href="/login.jsp" id="LoginLink"><font style="font-weight: bold; color: red;">Sign In</font></a> | <a href="/index.jsp?content=inside_contact.htm" id="HyperLink3">Contact Us</a> | <a href="/feedback.jsp" id="HyperLink4">Feedback</a> | <label for="txtSearch">Search</label>
+<input accesskey="S" id="query" name="query" type="text"/>
+<input type="submit" value="Go"/>
+</td>
+</tr>
+<tr>
+<td align="right" style="background-image:url('/images/gradient.jpg');padding:0px;margin:0px;"><img alt="" height="60/" src="http://demo.testfire.net/images/header_pic.jpg" width="354"/></td>
+</tr>
+</table>
+</form>
+</div>
+<table cellspacing="0" width="100%">
+<tr>
+<td class="bt br bb" width="25%"><div id="Header1"><img alt="Secure Login" height="14" id="Image1" src="http://demo.testfire.net/images/pf_lock.gif" style="vertical-align: bottom;" width="12">   <a class="focus" href="/login.jsp" id="AccountLink">ONLINE BANKING LOGIN</a></img></div></td>
+<td class="cc bt br bb" width="25%"><div id="Header2"><a class="focus" href="/index.jsp?content=personal.htm" id="LinkHeader2">PERSONAL</a></div></td>
+<td class="cc bt br bb" width="25%"><div id="Header3"><a class="focus" href="/index.jsp?content=business.htm" id="LinkHeader3">SMALL BUSINESS</a></div></td>
+<td class="cc bt bb" width="25%"><div id="Header4"><a class="focus" href="/index.jsp?content=inside.htm" id="LinkHeader4">INSIDE ALTORO MUTUAL</a></div></td>
+</tr>
+<tr>
+<!-- END HEADER -->
+<div id="wrapper" style="width: 99%;">
+<!-- TOC BEGIN -->
+<td class="cc br bb" valign="top">
+<br style="line-height: 10px;"/>
+<a class="subheader" href="index.jsp?content=personal.htm" id="CatLink1">PERSONAL</a>
+<ul class="sidebar">
+<li><a href="index.jsp?content=personal_deposit.htm" id="MenuHyperLink1">Deposit Product</a></li>
+<li><a href="index.jsp?content=personal_checking.htm" id="MenuHyperLink2">Checking</a></li>
+<li><a href="index.jsp?content=personal_loans.htm" id="MenuHyperLink3">Loan Products</a></li>
+<li><a href="index.jsp?content=personal_cards.htm" id="MenuHyperLink4">Cards</a></li>
+<li><a href="index.jsp?content=personal_investments.htm" id="MenuHyperLink5">Investments &amp; Insurance</a></li>
+<li><a href="index.jsp?content=personal_other.htm" id="MenuHyperLink6">Other Services</a></li>
+</ul>
+<a class="subheader" href="index.jsp?content=business.htm" id="CatLink2">SMALL BUSINESS</a>
+<ul class="sidebar">
+<li><a href="index.jsp?content=business_deposit.htm" id="MenuHyperLink7">Deposit Products</a></li>
+<li><a href="index.jsp?content=business_lending.htm" id="MenuHyperLink8">Lending Services</a></li>
+<li><a href="index.jsp?content=business_cards.htm" id="MenuHyperLink9">Cards</a></li>
+<li><a href="index.jsp?content=business_insurance.htm" id="MenuHyperLink10">Insurance</a></li>
+<li><a href="index.jsp?content=business_retirement.htm" id="MenuHyperLink11">Retirement</a></li>
+<li><a href="index.jsp?content=business_other.htm" id="MenuHyperLink12">Other Services</a></li>
+</ul>
+<a class="subheader" href="index.jsp?content=inside.htm" id="CatLink3">INSIDE ALTORO MUTUAL</a>
+<ul class="sidebar">
+<li><a href="index.jsp?content=inside_about.htm" id="MenuHyperLink13">About Us</a></li>
+<li><a href="index.jsp?content=inside_contact.htm" id="MenuHyperLink14">Contact Us</a></li>
+<li><a href="cgi.exe" id="MenuHyperLink15">Locations</a></li>
+<li><a href="index.jsp?content=inside_investor.htm" id="MenuHyperLink16">Investor Relations</a></li>
+<li><a href="index.jsp?content=inside_press.htm" id="MenuHyperLink17">Press Room</a></li>
+<li><a href="index.jsp?content=inside_careers.htm" id="MenuHyperLink18">Careers</a></li>
+<li><a href="subscribe.jsp" id="MenuHyperLink19">Subscribe</a></li>
+</ul>
+</td>
+<!-- TOC END -->
+<td class="bb" colspan="3" valign="top">
+<div class="fl" style="width: 99%;">
+<h1>Online Banking Login</h1>
+<!-- To get the latest admin login, please contact SiteOps at 415-555-6159 -->
+<p><span id="_ctl0__ctl0_Content_Main_message" style="color:#FF0066;font-size:12pt;font-weight:bold;">
+</span></p>
+<form action="doLogin" id="login" method="post" name="login" onsubmit="return (confirminput(login));">
+<table>
+<tr>
+<td>
+		        Username:
+		      </td>
+<td>
+<input id="uid" name="uid" style="width: 150px;" type="text" value=""/>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+		        Password:
+		      </td>
+<td>
+<input id="passw" name="passw" style="width: 150px;" type="password"/>
+</td>
+</tr>
+<tr>
+<td></td>
+<td>
+<input name="btnSubmit" type="submit" value="Login"/>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<script type="text/javascript">
+			function setfocus() {
+			    if (document.login.uid.value=="") {
+			      	document.login.uid.focus();
+			    } else {
+			      	document.login.passw.focus();
+			    }
+			}
+			
+			function confirminput(myform) {
+			    if (myform.uid.value.length && myform.passw.value.length) {
+			      return (true);
+			    } else if (!(myform.uid.value.length)) {
+			      myform.reset();
+			      myform.uid.focus();
+			      alert ("You must enter a valid username");
+			      return (false);
+			    } else {
+			      myform.passw.focus();
+			      alert ("You must enter a valid password");
+			      return (false);
+			    }
+			}
+			window.onload = setfocus;
+		</script>
+</td>
+</div>
+<!-- BEGIN FOOTER -->
+</tr>
+</table>
+<div id="footer" style="width: 99%;">
+<a href="/index.jsp?content=privacy.htm" id="HyperLink5">Privacy Policy</a>
+      |  
+    <a href="/index.jsp?content=security.htm" id="HyperLink6">Security Statement</a>
+      |  
+    <a href="/status_check.jsp" id="HyperLink6">Server Status Check</a>
+      |   
+    <a href="/swagger/index.html" id="HyperLink6">REST API</a>
+      |   
+    © 2024 Altoro Mutual, Inc.
+    <span style="color:red;font-weight:bold;font-style:italic;float:right">This web application is open source!<span style="color:black;font-style:italic;font-weight:normal;float:right"> <a href="https://github.com/AppSecDev/AltoroJ/">Get your copy from GitHub</a> and take advantage of advanced features</span></span>
+<br/><br/><br/>
+<div class="disclaimer">
+        The AltoroJ website is published by HCL Technologies, Ltd. for the sole purpose of
+        demonstrating the effectiveness of HCL products in detecting web application
+        vulnerabilities and website defects. This site is not a real banking site. Similarities,
+        if any, to third party products and/or websites are purely coincidental. This site is
+        provided "as is" without warranty of any kind, either express or implied. HCL does
+        not assume any risk in relation to your use of this website. For more information,
+        please go to <a href="https://www.hcl-software.com/appscan/" id="HyperLink7">https://www.hcl-software.com/appscan/</a>.<br><br>
+
+        Copyright © 2008, 2017, IBM Corporation, All rights reserved.
+        Copyright © 2017, 2024, HCL Technologies, Ltd., All rights reserved.
+    </br></br></div>
+</div>
+</body>
+</html>
+<!-- END FOOTER --><meta content="0;url=https://support.mozilla.org/kb/captive-portal" http-equiv="refresh"/><meta content="0;url=https://support.mozilla.org/kb/captive-portal" http-equiv="refresh"/>
